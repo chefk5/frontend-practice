@@ -1,0 +1,13 @@
+:root {
+  --color-white: #ffffff;
+  --color-indigo-200: #a8a2ee;
+
+  --color-indigo-700: #4338ca;
+  --color-neutral-900: #71717a;
+
+  --color-neutral-600: #525252;
+  --color-gradient: linear-gradient(to right, #f9fafb, #d2d6db);
+  --color-green-700: #15803d;
+  --color-green-200: #bbf7d0;
+  --color-green-50: #f0fdf4;
+}
